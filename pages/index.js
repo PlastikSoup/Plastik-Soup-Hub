@@ -1,4 +1,3 @@
-```javascript
 export default function Home() {
   return (
     <div style={{ fontFamily: 'Arial, sans-serif', padding: '20px' }}>
@@ -10,7 +9,7 @@ export default function Home() {
         <p>Show dates: October 2–3 at the Northern Australian Festival of Arts</p>
         <ul>
           <li>Producers: Natalya Alessi, Porcelain Alice (Julia Rose)</li>
-          <li>Cast: Juniper Fox (Junie), Yvette Santos</li>
+          <li>Cast: Juniper Fox (Juni), Yvette Santos</li>
         </ul>
       </section>
 
@@ -40,4 +39,3 @@ export default function Home() {
     </div>
   );
 }
-```
